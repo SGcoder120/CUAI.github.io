@@ -1,2 +1,2 @@
 # CUAI.github.io
-CUAI official club site.
+This is the official UTD Brains club site.
